@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "Title": "Harry Potter",
+        "Publisher": "Scholastic Press",
+        "Release Date": "November 16th, 2001",
+        "Author": "J.K. Rowling"
+    },
+    {
+        "id": 2,
+        "Title": "The Great Gatsby",
+        "Publisher": "Charles Scribner's Sons",
+        "Release Date": "April 10th, 1925",
+        "Author": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 3,
+        "Title": "1984",
+        "Publisher": "Secker & Warbug",
+        "Release Date": "June 8th, 1949",
+        "Author": "George Orwell"
+    },
+    {
+        "id": 4,
+        "Title": "To Kill a Mockingbird",
+        "Publisher": "Grand Central Publishing",
+        "Release Date": "October 11, 1988",
+        "Author": "Harper Lee"
+    }
+]
